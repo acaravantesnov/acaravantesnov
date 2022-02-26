@@ -5,8 +5,9 @@
 
 ## I'm a 42 and Electronic Engineering Student!
 
--  Studying 4th grade Electronic and Automation Engineering at UC3M 👨🏻‍🎓
+-  Studying 4th grade Electronic and Automation Engineering at UC3M 👨🏻‍🎓🇪🇸
 -  Proud to be a learner of the 42 Network 4️⃣ 2️⃣
+-  Learning C, C++, VHDL aand ASM
 
 ## Some of my projects..
 
