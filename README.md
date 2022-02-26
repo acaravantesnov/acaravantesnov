@@ -36,9 +36,21 @@
 
 ## Languages and Tools:
 
-[<img align="left" alt="C" width="26px" src="https://www.jalalmhz.ir/wp-content/uploads/2021/05/Introduction-to-C-programming-language.png" />](https://github.com/acaravantesnov)
-[<img align="left" alt="CPP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/2560px-ISO_C%2B%2B_Logo.svg.png" />](https://github.com/acaravantesnov)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://github.com/acaravantesnov)
-[<img align="left" alt="VirtualBox" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" />](https://github.com/acaravantesnov)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/acaravantesnov)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/acaravantesnov)
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+- 🔭 I’m currently working on [Philosophers, Minishell & CPP_Module](https://github.com/acaravantesnov/42-Cursus)
+
+- 🌱 I’m currently learning **C, C++, VHSL & ASM.**
+
+- 📫 How to reach me: **acaravantesnov@hotmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/albertocaravantes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albertocaravantes" height="30" width="40" /></a>
+</p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=acaravantesnov&show_icons=true&locale=en&layout=compact" alt="acaravantesnov" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acaravantesnov&" alt="acaravantesnov" /></p>
+
