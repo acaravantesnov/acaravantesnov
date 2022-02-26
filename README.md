@@ -26,7 +26,7 @@
 | [Philosophers](https://github.com/acaravantesnov/42-Cursus/tree/main/Philosophers)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/Philosophers)](https://badge42.herokuapp.com/api/project/acaravan/Philosophers)                  |
 | [minishell](https://github.com/acaravantesnov/42-Cursus/tree/main/minishell)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/minishell)](https://badge42.herokuapp.com/api/project/acaravan/minishell)                  |
 | UC3M Project    | Language                                                                                                                             |
-| [AnimalCare](https://github.com/acaravantesnov/AnimaCare)         | C++                                                                               |
+| [AnimalCare](https://github.com/acaravantesnov/AnimalCare)         | C++                                                                               |
 
 ## Connect with me:
 
