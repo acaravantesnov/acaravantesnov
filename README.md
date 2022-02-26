@@ -30,7 +30,7 @@
 | [push_swap](https://github.com/acaravantesnov/42-Cursus/tree/main/push_swap)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/push_swap)](https://badge42.herokuapp.com/api/project/acaravan/push_swap)                  |
 | [Philosophers](https://github.com/acaravantesnov/42-Cursus/tree/main/Philosophers)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/Philosophers)](https://badge42.herokuapp.com/api/project/acaravan/Philosophers)                  |
 | [minishell](https://github.com/acaravantesnov/42-Cursus/tree/main/minishell)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/minishell)](https://badge42.herokuapp.com/api/project/acaravan/minishell)                  |
-| [CPP_Module](https://github.com/acaravantesnov/42-Cursus/tree/main/CPP_Module)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/cpp-module-08)](https://badge42.herokuapp.com/api/project/acaravan/cpp-module-08)                  |
+| [CPP_Module](https://github.com/acaravantesnov/42-Cursus/tree/main/CPP_Module)         |                   |
 | UC3M Project    | Language                                                                                                                             |
 | [AnimalCare](https://github.com/acaravantesnov/AnimalCare)         | C++                                                                               |
 
