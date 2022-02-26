@@ -29,14 +29,6 @@
 | UC3M Project    | Language                                                                                                                             |
 | [AnimalCare](https://github.com/acaravantesnov/AnimalCare)         | C++                                                                               |
 
-## Connect with me:
-
-[<img align="left" alt="somedevv | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/galisteo02)
-[<img align="left" alt="somedevv | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/galisteo02/)
-[<img align="left" alt="somedevv | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/agalisteomula/)
-
-<br />
-
 ## Languages and Tools:
 
 [<img align="left" alt="C" width="26px" src="https://www.jalalmhz.ir/wp-content/uploads/2021/05/Introduction-to-C-programming-language.png" />](https://github.com/acaravantesnov)
