@@ -22,7 +22,7 @@
 
 | 42 Project       | Mark                                                                                                                                          |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| [libft](https://github.com/acaravantesnov/42-Cursus/libft)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/Libft)](https://badge42.herokuapp.com/api/project/acaravan/Libft)                  |
+| [libft](https://github.com/acaravantesnov/42-Cursus/tree/main/libft)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/Libft)](https://badge42.herokuapp.com/api/project/acaravan/Libft)                  |
 | [get_next_line](https://github.com/acaravantesnov/42-Cursus/get_next_line)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/get_next_line)](https://badge42.herokuapp.com/api/project/acaravan/get_next_line)                  |
 | [Born2beroot](https://github.com/acaravantesnov/42-Cursus/Born2beroot)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/Born2beroot)](https://badge42.herokuapp.com/api/project/acaravan/Born2beroot)                  |
 
