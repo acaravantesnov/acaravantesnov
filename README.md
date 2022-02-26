@@ -7,7 +7,6 @@
 
 -  Studying 4th grade Electronic and Automation Engineering at UC3M 👨🏻‍🎓
 -  Proud to be a learner of the 42 Network 4️⃣ 2️⃣
--  I love music! --> [my Spotify Profile](https://open.spotify.com/user/acaravantesnov)  🎶
 
 ## Some of my projects..
 
@@ -24,7 +23,7 @@
 | [so_long](https://github.com/acaravantesnov/42-Cursus/tree/main/so_long)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/so_long)](https://badge42.herokuapp.com/api/project/acaravan/so_long)                  |
 | [pipex](https://github.com/acaravantesnov/42-Cursus/tree/main/pipex)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/pipex)](https://badge42.herokuapp.com/api/project/acaravan/pipex)                  |
 | [push_swap](https://github.com/acaravantesnov/42-Cursus/tree/main/push_swap)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/push_swap)](https://badge42.herokuapp.com/api/project/acaravan/push_swap)                  |
-| [push_swap](https://github.com/acaravantesnov/42-Cursus/tree/main/push_swap)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/push_swap)](https://badge42.herokuapp.com/api/project/acaravan/push_swap)                  |
+| [push_swap](https://github.com/acaravantesnov/42-Cursus/tree/main/philosophers)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/push_swap)](https://badge42.herokuapp.com/api/project/acaravan/push_swap)                  |
 
 ## Connect with me:
 
