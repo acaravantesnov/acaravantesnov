@@ -8,7 +8,7 @@
 -  Studying 3rd grade Electronic and Automation Engineering at UC3M 👨🏻‍🎓🇪🇸
 -  Proud to be a learner of the 42 Network 4️⃣ 2️⃣
 -  Learning C, C++, VHDL and ASM
--  To check my carreer, visit my [linkedin](https://www.linkedin.com/in/albertocaravantes/) [<img alt="linkedin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />](https://github.com/acaravantesnov)
+-  To check my carreer, visit my [linkedin](https://www.linkedin.com/in/albertocaravantes/)   [<img alt="linkedin" width="12px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />](https://github.com/acaravantesnov)
 
 ## Some of my projects..
 
