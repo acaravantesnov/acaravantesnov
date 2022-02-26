@@ -39,7 +39,7 @@
 ## Languages and Tools:
 
 [<img align="left" alt="C" width="26px" src="https://www.jalalmhz.ir/wp-content/uploads/2021/05/Introduction-to-C-programming-language.png" />](https://github.com/acaravantesnov)
-[<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />](https://github.com/acaravantesnov)
+[<img align="left" alt="CPP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/2560px-ISO_C%2B%2B_Logo.svg.png" />](https://github.com/acaravantesnov)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://github.com/acaravantesnov)
 [<img align="left" alt="VirtualBox" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" />](https://github.com/acaravantesnov)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/acaravantesnov)
