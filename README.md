@@ -14,6 +14,9 @@
 <a href="https://github.com/acaravantesnov/42-Cursus">
   <img align="right" src="https://badge42.herokuapp.com/api/stats/acaravan?privacyName=true" />
 </a>
+<a href="https://github.com/42-Cursus/C-Piscine">
+  <img align="right" src="https://badge42.herokuapp.com/api/stats/acaravan?cursus=C%20Piscine&privacyName=true" />
+</a>
 
 | 42 Project       | Mark                                                                                                                                          |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
