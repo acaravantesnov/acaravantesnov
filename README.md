@@ -22,7 +22,7 @@
 
 | 42 Project       | Mark                                                                                                                                          |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Libft](https://github.com/acaravan/42-Cursus/libft)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/libft)](https://badge42.herokuapp.com/api/project/acaravan/libft)                  |
+| [Libft](https://github.com/acaravantesnov/42-Cursus/libft)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/Libft)](https://badge42.herokuapp.com/api/project/acaravan/Libft)                  |
 
 ## Connect with me:
 
