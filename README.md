@@ -23,8 +23,12 @@
 | 42 Project       | Mark                                                                                                                                          |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | [libft](https://github.com/acaravantesnov/42-Cursus/tree/main/libft)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/Libft)](https://badge42.herokuapp.com/api/project/acaravan/Libft)                  |
-| [get_next_line](https://github.com/acaravantesnov/42-Cursus/tree/main/get_next_line)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/get_next_line)](https://badge42.herokuapp.com/api/project/acaravan/get_next_line)                  |
+| [ft_printf](https://github.com/acaravantesnov/42-Cursus/tree/main/ft_printf)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/ft_printf)](https://badge42.herokuapp.com/api/project/acaravan/ft_printf)                  |
 | [Born2beroot](https://github.com/acaravantesnov/42-Cursus/tree/main/Born2beroot)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/Born2beroot)](https://badge42.herokuapp.com/api/project/acaravan/Born2beroot)                  |
+| [get_next_line](https://github.com/acaravantesnov/42-Cursus/tree/main/get_next_line)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/get_next_line)](https://badge42.herokuapp.com/api/project/acaravan/get_next_line)                  |
+| [so_long](https://github.com/acaravantesnov/42-Cursus/tree/main/so_long)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/so_long)](https://badge42.herokuapp.com/api/project/acaravan/so_long)                  |
+| [pipex](https://github.com/acaravantesnov/42-Cursus/tree/main/pipex)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/pipex)](https://badge42.herokuapp.com/api/project/acaravan/pipex)                  |
+| [push_swap](https://github.com/acaravantesnov/42-Cursus/tree/main/push_swap)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/push_swap)](https://badge42.herokuapp.com/api/project/acaravan/push_swap)                  |
 
 ## Connect with me:
 
