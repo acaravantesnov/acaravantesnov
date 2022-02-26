@@ -25,7 +25,7 @@
 | [push_swap](https://github.com/acaravantesnov/42-Cursus/tree/main/push_swap)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/push_swap)](https://badge42.herokuapp.com/api/project/acaravan/push_swap)                  |
 | [Philosophers](https://github.com/acaravantesnov/42-Cursus/tree/main/Philosophers)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/Philosophers)](https://badge42.herokuapp.com/api/project/acaravan/Philosophers)                  |
 | [minishell](https://github.com/acaravantesnov/42-Cursus/tree/main/minishell)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/minishell)](https://badge42.herokuapp.com/api/project/acaravan/minishell)                  |
-| UC3M Project     | Mark                                                                                                                                          |
+| UC3M Project                                                                                                                                         |
 
 ## Connect with me:
 
