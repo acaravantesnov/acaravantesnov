@@ -23,7 +23,7 @@
 | [so_long](https://github.com/acaravantesnov/42-Cursus/tree/main/so_long)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/so_long)](https://badge42.herokuapp.com/api/project/acaravan/so_long)                  |
 | [pipex](https://github.com/acaravantesnov/42-Cursus/tree/main/pipex)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/pipex)](https://badge42.herokuapp.com/api/project/acaravan/pipex)                  |
 | [push_swap](https://github.com/acaravantesnov/42-Cursus/tree/main/push_swap)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/push_swap)](https://badge42.herokuapp.com/api/project/acaravan/push_swap)                  |
-| [philosophers](https://github.com/acaravantesnov/42-Cursus/tree/main/philosophers)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/philosophers)](https://badge42.herokuapp.com/api/project/acaravan/philosophers)                  |
+| [Philosophers](https://github.com/acaravantesnov/42-Cursus/tree/main/Philosophers)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/Philosophers)](https://badge42.herokuapp.com/api/project/acaravan/Philosophers)                  |
 
 ## Connect with me:
 
