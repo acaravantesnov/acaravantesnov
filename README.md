@@ -16,19 +16,13 @@
 <a href="https://github.com/acaravantesnov/42-Cursus">
   <img align="right" src="https://badge42.herokuapp.com/api/stats/acaravan?privacyName=true" />
 </a>
-<a href="https://github.com/somedevv/42-C-Piscine">
-  <img align="right" src="https://badge42.herokuapp.com/api/stats/agaliste?cursus=C%20Piscine&privacyName=true" />
+<a href="https://github.com/acaravan/42-C-Piscine">
+  <img align="right" src="https://badge42.herokuapp.com/api/stats/acaravan?cursus=C%20Piscine&privacyName=true" />
 </a>
 
 | 42 Project       | Mark                                                                                                                                          |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Libft](https://github.com/somedevv/libft)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/Libft)](https://badge42.herokuapp.com/api/project/agaliste/Libft)                  |
-| [get_next_line](https://github.com/somedevv/get_next_line) | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/get_next_line)](https://badge42.herokuapp.com/api/project/acaravan/get_next_line)          |
-| [ft_printf](https://github.com/somedevv/ft_printf)     | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/ft_printf)](https://badge42.herokuapp.com/api/project/acaravan/ft_printf)              |
-| [born2beroot](https://github.com/somedevv/born2beroot/)   | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/Born2beroot)](https://badge42.herokuapp.com/api/project/acaravan/Born2beroot)           |
-| [push_swap](https://github.com/somedevv/push_swap)     | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/agaliste/push_swap)](https://badge42.herokuapp.com/api/project/acaravan/push_swap)              |
-| [so_long](https://github.com/somedevv/so_long)       | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/so_long)](https://badge42.herokuapp.com/api/project/agaliste/so_long)                |
-| [Pipex](https://github.com/somedevv/Pipex)       | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/pipex)](https://badge42.herokuapp.com/api/project/agaliste/Pipex)                |
+| [Libft](https://github.com/acaravan/42-Cursus/libft)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/libft)](https://badge42.herokuapp.com/api/project/acaravan/libft)                  |
 
 ## Connect with me:
 
