@@ -22,7 +22,7 @@
 
 | 42 Project       | Mark                                                                                                                                          |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| [libft](https://github.com/acaravantesnov/42-Cursus/tree/main/libft)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/Libft)](https://badge42.herokuapp.com/api/project/acaravan/Libft)                  |
+| [libft](https://github.com/acaravantesnov/42-Cursus/tree/main/libft)         | [![acaravan's 42 stats](https://badge42.vercel.app/api/v2/cl2mpbcdo004009l6d3xsxvnu/stats?cursusId=21&coalitionId=66)](https://github.com/JaeSeoKim/badge42)                  |
 | [ft_printf](https://github.com/acaravantesnov/42-Cursus/tree/main/ft_printf)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/ft_printf)](https://badge42.herokuapp.com/api/project/acaravan/ft_printf)                  |
 | [Born2beroot](https://github.com/acaravantesnov/42-Cursus/tree/main/Born2beroot)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/Born2beroot)](https://badge42.herokuapp.com/api/project/acaravan/Born2beroot)                  |
 | [get_next_line](https://github.com/acaravantesnov/42-Cursus/tree/main/get_next_line)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/get_next_line)](https://badge42.herokuapp.com/api/project/acaravan/get_next_line)                  |
