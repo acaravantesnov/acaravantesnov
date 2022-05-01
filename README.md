@@ -23,17 +23,18 @@
 | 42 Project       | Mark                                                                                                                                          |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Philosophers](https://github.com/acaravantesnov/42-Cursus/tree/main/Philosophers)         | [![acaravan's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl2mpbcdo004009l6d3xsxvnu/project/2493843)](https://github.com/JaeSeoKim/badge42)                  |
-| [Exam Rank 03]         | [![acaravan's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl2mpbcdo004009l6d3xsxvnu/project/2510726)](https://github.com/JaeSeoKim/badge42)                  |
-| [Born2beroot](https://github.com/acaravantesnov/42-Cursus/tree/main/Born2beroot)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/Born2beroot)](https://badge42.herokuapp.com/api/project/acaravan/Born2beroot)                  |
-| [get_next_line](https://github.com/acaravantesnov/42-Cursus/tree/main/get_next_line)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/get_next_line)](https://badge42.herokuapp.com/api/project/acaravan/get_next_line)                  |
-| [so_long](https://github.com/acaravantesnov/42-Cursus/tree/main/so_long)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/so_long)](https://badge42.herokuapp.com/api/project/acaravan/so_long)                  |
-| [pipex](https://github.com/acaravantesnov/42-Cursus/tree/main/pipex)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/pipex)](https://badge42.herokuapp.com/api/project/acaravan/pipex)                  |
-| [push_swap](https://github.com/acaravantesnov/42-Cursus/tree/main/push_swap)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/push_swap)](https://badge42.herokuapp.com/api/project/acaravan/push_swap)                  |
-| [Philosophers](https://github.com/acaravantesnov/42-Cursus/tree/main/Philosophers)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/Philosophers)](https://badge42.herokuapp.com/api/project/acaravan/Philosophers)                  |
-| [minishell](https://github.com/acaravantesnov/42-Cursus/tree/main/minishell)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/minishell)](https://badge42.herokuapp.com/api/project/acaravan/minishell)                  |
-| [CPP_Module](https://github.com/acaravantesnov/42-Cursus/tree/main/CPP_Module)         |                   |
-| UC3M Project    | Language                                                                                                                             |
-| [AnimalCare](https://github.com/acaravantesnov/AnimalCare)         | C++                                                                               |
+| [Exam Rank 03](https://github.com/acaravantesnov)         | [![acaravan's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl2mpbcdo004009l6d3xsxvnu/project/2510726)](https://github.com/JaeSeoKim/badge42)                  |
+| [minishell]https://github.com/acaravantesnov/Minishell)         | [![acaravan's 42 minishell Score](https://badge42.vercel.app/api/v2/cl2mpbcdo004009l6d3xsxvnu/project/2493847)](https://github.com/JaeSeoKim/badge42)                  |
+| [Exam Rank 02](https://github.com/acaravantesnov)         | [![acaravan's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl2mpbcdo004009l6d3xsxvnu/project/2448202)](https://github.com/JaeSeoKim/badge42)                  |
+| [push_swap](https://github.com/acaravantesnov/42-Cursus/tree/main/push_swap)         | [![acaravan's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl2mpbcdo004009l6d3xsxvnu/project/2343308)](https://github.com/JaeSeoKim/badge42)                  |
+| [pipex](https://github.com/acaravantesnov/42-Cursus/tree/main/pipex)         | [![acaravan's 42 pipex Score](https://badge42.vercel.app/api/v2/cl2mpbcdo004009l6d3xsxvnu/project/2425647)](https://github.com/JaeSeoKim/badge42)                  |
+| [so_long](https://github.com/acaravantesnov/42-Cursus/tree/main/so_long)         | [![acaravan's 42 so_long Score](https://badge42.vercel.app/api/v2/cl2mpbcdo004009l6d3xsxvnu/project/2326943)](https://github.com/JaeSeoKim/badge42)                  |
+| [get_next_line](https://github.com/acaravantesnov/42-Cursus/tree/main/get_next_line)         | [[![acaravan's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl2mpbcdo004009l6d3xsxvnu/project/2293106)](https://github.com/JaeSeoKim/badge42)                  |
+| [Born2beroot](https://github.com/acaravantesnov/42-Cursus/tree/main/Born2beroot)         | [![acaravan's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl2mpbcdo004009l6d3xsxvnu/project/2292463)](https://github.com/JaeSeoKim/badge42)                  |
+| [ft_printf](https://github.com/acaravantesnov/42-Cursus/tree/main/ft_printf)         | [![acaravan's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl2mpbcdo004009l6d3xsxvnu/project/2189009)](https://github.com/JaeSeoKim/badge42)                  |
+| [Libft](https://github.com/acaravantesnov/42-Cursus/tree/main/libft)         | [![acaravan's 42 Libft Score](https://badge42.vercel.app/api/v2/cl2mpbcdo004009l6d3xsxvnu/project/2074198)](https://github.com/JaeSeoKim/badge42)                  |
+| UC3M Project    | Language                                                                                                          |
+| [AnimalCare](https://github.com/acaravantesnov/AnimalCare)         | C++                                                            |
 
 ## Languages and Tools:
 
