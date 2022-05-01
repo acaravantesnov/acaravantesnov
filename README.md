@@ -22,8 +22,8 @@
 
 | 42 Project       | Mark                                                                                                                                          |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Philosophers](https://github.com/acaravantesnov/42-Cursus/tree/main/libft)         | [![acaravan's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl2mpbcdo004009l6d3xsxvnu/project/2493843)](https://github.com/JaeSeoKim/badge42)                  |
-| [ft_printf](https://github.com/acaravantesnov/42-Cursus/tree/main/ft_printf)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/ft_printf)](https://badge42.herokuapp.com/api/project/acaravan/ft_printf)                  |
+| [Philosophers](https://github.com/acaravantesnov/42-Cursus/tree/main/Philosophers)         | [![acaravan's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl2mpbcdo004009l6d3xsxvnu/project/2493843)](https://github.com/JaeSeoKim/badge42)                  |
+| [Exam Rank 03]()         | [![acaravan's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl2mpbcdo004009l6d3xsxvnu/project/2510726)](https://github.com/JaeSeoKim/badge42)                  |
 | [Born2beroot](https://github.com/acaravantesnov/42-Cursus/tree/main/Born2beroot)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/Born2beroot)](https://badge42.herokuapp.com/api/project/acaravan/Born2beroot)                  |
 | [get_next_line](https://github.com/acaravantesnov/42-Cursus/tree/main/get_next_line)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/get_next_line)](https://badge42.herokuapp.com/api/project/acaravan/get_next_line)                  |
 | [so_long](https://github.com/acaravantesnov/42-Cursus/tree/main/so_long)         | [![acaravan's 42Project Score](https://badge42.herokuapp.com/api/project/acaravan/so_long)](https://badge42.herokuapp.com/api/project/acaravan/so_long)                  |
