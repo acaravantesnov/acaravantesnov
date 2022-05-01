@@ -13,8 +13,6 @@
 
 ## Some of my projects..
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl2mpbcdo004009l6d3xsxvnu/stats?cursusId=21&coalitionId=66" alt="acaravan's 42 stats" /></a>
-
 | 42 Project       | Mark                                                                                                                                          |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Philosophers](https://github.com/acaravantesnov/42-Cursus/tree/main/Philosophers)         | [![acaravan's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl2mpbcdo004009l6d3xsxvnu/project/2493843)](https://github.com/JaeSeoKim/badge42)                  |
