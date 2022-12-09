@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hi%20there,%20I%27m%20acaravantesnov!%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hi%20there,%20I%27m%20acaravantesnov!%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%20%F0%9F%9A%80&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
 [![Github](https://img.shields.io/github/followers/acaravantesnov?label=Follow&style=social)](https://github.com/acaravantesnov)
 ![](https://visitor-badge.laobi.icu/badge?page_id=acaravantesnov.acaravantesnov)
