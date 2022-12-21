@@ -3,7 +3,6 @@
 -  👨🏻‍🎓 Studying Senior year of Electronic and Automation Engineering at Kennesaw State University.
 -  🍍 Proud to be a learner of the 42 Network.
 -  👨🏻‍💻 Learning C, C++, VHDL and ASM.
--  To check my carreer, visit my [linkedin](https://www.linkedin.com/in/albertocaravantes/)   [<img alt="linkedin" width="12px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />](https://github.com/acaravantesnov)
 
 -------------------------------------
 ## 42 School Projects
