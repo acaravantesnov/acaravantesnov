@@ -4,8 +4,12 @@
 -  🍍 Proud to be a learner of the 42 Network.
 -  👨🏻‍💻 Learning C, C++, VHDL and ASM.
 
--------------------------------------
+---
 ## 42 School Projects
+
+<table>
+<tr><th> 42 Projects </th><th> 42 Exams </th></tr>
+<tr><td>
 
 | Project       | Mark                                                                                                                                          |
 |---------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -22,6 +26,21 @@
 | [ft_printf](https://github.com/acaravantesnov/42-Cursus/tree/main/ft_printf)           | [![acaravan's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl2mpbcdo004009l6d3xsxvnu/project/2189009)](https://github.com/JaeSeoKim/badge42) |
 | [libft](https://github.com/acaravantesnov/42-Cursus/tree/main/libft)                   | [![acaravan's 42 Libft Score](https://badge42.vercel.app/api/v2/cl2mpbcdo004009l6d3xsxvnu/project/2074198)](https://github.com/JaeSeoKim/badge42) |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+</td><td vertical-align:top">
+
+| Exam  |  Mark  |
+|----------|--------|
+| Exam Rank 02 | [![acaravan's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl2mpbcdo004009l6d3xsxvnu/project/2448202)](https://github.com/JaeSeoKim/badge42) |
+| Exam Rank 03 | [![acaravan's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl2mpbcdo004009l6d3xsxvnu/project/2655479)](https://github.com/JaeSeoKim/badge42) |
+| Exam Rank 04 | [![acaravan's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl2mpbcdo004009l6d3xsxvnu/project/2713728)](https://github.com/JaeSeoKim/badge42) |
+
+</td></tr> </table>
+
+---
+
+## Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=107ab0)](https://www.linkedin.com/in/albertocaravantes)
+[![Mail](https://img.shields.io/badge/Mail-20232A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:acaravantesnov@hotmail.com)
+[<img src="https://user-images.githubusercontent.com/29986345/135771930-b0e5cf15-3719-4934-9bca-4a5d3b35850f.png">](mailto:acaravan@student.42madrid.com)
 
