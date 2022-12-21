@@ -5,7 +5,8 @@
 -  👨🏻‍💻 Learning C, C++, VHDL and ASM.
 
 ---
-## 42 School Projects
+
+## 42 School
 
 <table>
 <tr><th> 42 Projects </th><th> 42 Exams </th></tr>
