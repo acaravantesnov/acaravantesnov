@@ -2,7 +2,7 @@
 
 -  👨🏻‍🎓 Studying Senior year of Electronic and Automation Engineering at Kennesaw State University.
 -  🍍 Proud to be a learner of the 42 Network.
--  👨🏻‍💻 Learning C, C++, VHDL and ASM.
+-  👨🏻‍💻 Learning C, C++, VHDL and RISC-V ASM.
 
 ---
 
