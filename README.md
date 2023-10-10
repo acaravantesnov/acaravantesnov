@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hi%20there,%20I%27m%20acaravantesnov!%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%20%F0%9F%9A%80&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
--  👨🏻‍🎓 Studying Senior year of Electronic and Automation Engineering at Kennesaw State University.
+-  👨🏻‍🎓 Electronics and Automation Engineer studing Master's in Electronic Systems Engineering and Applications
 -  🍍 Proud to be a learner of the 42 Network.
--  👨🏻‍💻 Learning C, C++, VHDL and RISC-V ASM.
+-  👨🏻‍💻 C, C++, Python, Bash, RISC-V asm and VHDL.
 
 ---
 
