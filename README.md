@@ -6,12 +6,14 @@
 
 ---
 
-## My repositories:
+# My repositories:
 
 - RV32I_Core: RISC-V single core processor in VHDL.
 - 42_Cursus: All my 42 projects, including exams and group projects.
 - DRONE_AND_CONTROLLER_ESP32: Code for 2 different ESP32 SoCs for a Drone and Controller.
 - AnimalCare: Project for Universidad Carlos III de Madrid.
+
+---
 
 ## Connect with me:
 
